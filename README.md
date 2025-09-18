@@ -55,7 +55,8 @@ I was responsible for the **complete electronic and software design** of Slidex:
 - Performed full system integration tests
 - Managed on-site installation, calibration, and live operation during the Grand Hyatt Dubai event
 
-![Live Event](https://vimeo.com/1119897176?share=copy)
+[▶ Watch the Live Event on Vimeo](https://vimeo.com/1119897176)
+
 
 ---
 

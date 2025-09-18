@@ -37,7 +37,7 @@ I was responsible for the **complete electronic and software design** of Slidex:
 - Added **OTA updates** to simplify field maintenance (no manual reflashing required)
 - Created a modular and reusable codebase for multiple structures
 
-![Firmware Flow](https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/3.png)
+![Firmware Flow](https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/firm.png)
 
 ---
 

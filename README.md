@@ -68,7 +68,7 @@ I was responsible for the **complete electronic and software design** of Slidex:
 | **Communication** | ESP-NOW, RS485, Ethernet |
 | **Firmware** | Arduino Framework |
 | **Software** | Python, PySide6 (Qt for Python), Socket Programming |
-| **Testing** | SocketTest, Oscilloscope |
+| **Testing** | SocketTest, WireShark |
 
 ---
 

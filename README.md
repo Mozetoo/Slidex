@@ -27,7 +27,10 @@ I was responsible for the **complete electronic and software design** of Slidex:
 - Integrated **Ethernet** and **RS485** support
 - Prototyped, validated, and tested every feature (power, comms, I/O)
 
-![PCB Design](https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/2.png)
+<p align="center">
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/1.png" width="48%" style="margin-right: 2%;" />
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/2.png" width="48%" style="transform: rotate(90deg);" />
+</p>
 
 ---
 

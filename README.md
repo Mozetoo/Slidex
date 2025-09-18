@@ -13,7 +13,7 @@ It brings together **custom electronics, real-time wireless communication, and a
 - **Communication:** Low-latency wireless control using ESP-NOW  
 - **Software:** Fully dynamic Python + Qt application with scenario and video playback support  
 
-![System Overview](media/system_overview.png) <!-- Replace with actual image -->
+![System Overview](https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/1.png)
 
 ---
 
@@ -27,7 +27,7 @@ I was responsible for the **complete electronic and software design** of Slidex:
 - Integrated **Ethernet** and **RS485** support
 - Prototyped, validated, and tested every feature (power, comms, I/O)
 
-![PCB Design](media/pcb_design.png) <!-- Replace with your PCB render -->
+![PCB Design](https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/2.png)
 
 ---
 
@@ -37,7 +37,7 @@ I was responsible for the **complete electronic and software design** of Slidex:
 - Added **OTA updates** to simplify field maintenance (no manual reflashing required)
 - Created a modular and reusable codebase for multiple structures
 
-![Firmware Flow](media/firmware_architecture.png) <!-- Optional diagram -->
+![Firmware Flow](https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/3.png)
 
 ---
 
@@ -47,7 +47,7 @@ I was responsible for the **complete electronic and software design** of Slidex:
 - Added **scenario playback** and **video triggering** with **Resolume**
 - Designed the UI for easy operator control during live events
 
-![Control App Screenshot](media/software_ui.png) <!-- Replace with actual screenshot -->
+![Control App Screenshot](https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/4.png)
 
 ---
 
@@ -55,7 +55,7 @@ I was responsible for the **complete electronic and software design** of Slidex:
 - Performed full system integration tests
 - Managed on-site installation, calibration, and live operation during the Grand Hyatt Dubai event
 
-![Live Event](media/live_event.jpg) <!-- Replace with event picture -->
+![Live Event](https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/event.mp4)
 
 ---
 
@@ -85,20 +85,11 @@ I was responsible for the **complete electronic and software design** of Slidex:
 
 | Type | Link |
 |------|------|
-| PCB Render | ![PCB Render](media/pcb_render.png) |
-| Firmware Demo | [Watch on YouTube](https://youtube.com/your-demo-link) |
-| Control App | ![UI Screenshot](media/ui_screenshot.png) |
-| Live Event Video | [Watch Deployment Video](https://youtube.com/your-event-link) |
+| PCB Render | ![PCB Render](https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/1.png) |
+| Firmware Demo | [▶ Watch Demo Video](https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/event.mp4) |
+| Control App | ![UI Screenshot](https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/4.png) |
+| Live Event Video | [▶ Watch Event Video](https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/event.mp4) |
 
 ---
 
-## 📂 Repository Structure
 
-```plaintext
-Slidex/
-├── firmware/         # ESP32 source code
-├── pcb/              # EasyEDA project files, Gerbers (if shareable)
-├── software/         # Python Qt control application
-├── docs/             # Architecture diagrams, wiring schematics
-├── media/            # Images, videos, screenshots
-└── README.md

@@ -55,7 +55,7 @@ I was responsible for the **complete electronic and software design** of Slidex:
 - Performed full system integration tests
 - Managed on-site installation, calibration, and live operation during the Grand Hyatt Dubai event
 
-![Live Event](https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/event.mp4)
+![Live Event](https://vimeo.com/1119897176?share=copy)
 
 ---
 
@@ -80,16 +80,4 @@ I was responsible for the **complete electronic and software design** of Slidex:
 ✅ **Robust Design** – Withstands heat and environmental stress during events  
 
 ---
-
-## 🎥 Media
-
-| Type | Link |
-|------|------|
-| PCB Render | ![PCB Render](https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/1.png) |
-| Firmware Demo | [▶ Watch Demo Video](https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/event.mp4) |
-| Control App | ![UI Screenshot](https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/4.png) |
-| Live Event Video | [▶ Watch Event Video](https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/event.mp4) |
-
----
-
 

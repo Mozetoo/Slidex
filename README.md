@@ -13,7 +13,13 @@ It brings together **custom electronics, real-time wireless communication, and a
 - **Communication:** Low-latency wireless control using ESP-NOW  
 - **Software:** Fully dynamic Python + Qt application with scenario and video playback support  
 
-![System Overview](https://github.com/Mozetoo/Files/raw/main/brand-assets/Slidex/2.gif)
+## 🖥️ System Overview
+
+<p align="center">
+  <img src="https://github.com/Mozetoo/Files/raw/main/brand-assets/Slidex/2.gif" width="45%" />
+  <img src="https://github.com/Mozetoo/Files/raw/main/brand-assets/Slidex/12.gif" width="45%" />
+</p>
+
 
 ---
 

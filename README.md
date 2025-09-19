@@ -16,8 +16,7 @@ It brings together **custom electronics, real-time wireless communication, and a
 ## 🖥️ System Overview
 
 <p align="center">
-  <img src="https://github.com/Mozetoo/Files/raw/main/brand-assets/Slidex/2.gif" width="45%" />
-  <img src="https://github.com/Mozetoo/Files/raw/main/brand-assets/Slidex/12.gif" width="45%" />
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/event-VEED%20(1).gif"/>
 </p>
 
 

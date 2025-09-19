@@ -15,10 +15,10 @@ It brings together **custom electronics, real-time wireless communication, and a
 
 ## 🖥️ System Overview
 
-<p align="center">
-  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/event-VEED%20(1).gif" width="50" />
-  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/Moses%20Sampson_s%20Video%20-%20Sep%2019%2C%202025-VEED.gif" width="50" />
-</p>
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/event-VEED%20(1).gif" width="45%" />
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/Moses%20Sampson_s%20Video%20-%20Sep%2019%2C%202025-VEED.gif" width="45%" />
+</div>
 
 
 ---

@@ -14,11 +14,8 @@ It brings together **custom electronics, real-time wireless communication, and a
 - **Software:** Fully dynamic Python + Qt application with scenario and video playback support  
 
 ## 🖥️ System Overview
-
-  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/Moses%20Sampson_s%20Video%20-%20Sep%2019%2C%202025-VEED.gif" />
-
-
-
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/event-VEED%20(1).gif" />
+  
 ---
 
 ## 🛠️ My Role
@@ -84,5 +81,7 @@ I was responsible for the **complete electronic and software design** of Slidex:
 ✅ **Real-Time Wireless Control** – Ultra-low latency screen rotation and movement  
 ✅ **Robust Design** – Withstands heat and environmental stress during events  
 
+ <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/Slidex/Moses%20Sampson_s%20Video%20-%20Sep%2019%2C%202025-VEED.gif" />
+  
 ---
 
